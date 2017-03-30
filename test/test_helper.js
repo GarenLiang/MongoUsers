@@ -7,6 +7,9 @@ mongoose.connection
     console.warn('Error', error);
   });
 
-beforeEach(() => {
-  mongoose.connection.collections.users.drop();
+beforeEach((done) => {
+  mongoose.connection.collections.users.drop(() => {
+    //Ready to run the next test
+    done();
+  });
 });
