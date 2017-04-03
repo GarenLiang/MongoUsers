@@ -7,7 +7,7 @@
 6 silly lifecycle mongousers@1.0.0~pretest: no script for pretest, continuing
 7 info lifecycle mongousers@1.0.0~test: mongousers@1.0.0
 8 verbose lifecycle mongousers@1.0.0~test: unsafe-perm in lifecycle true
-9 verbose lifecycle mongousers@1.0.0~test: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/garenliang/ProjectX/MongoUsers/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+9 verbose lifecycle mongousers@1.0.0~test: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/garenliang/ProjectX/MongoUsers/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 10 verbose lifecycle mongousers@1.0.0~test: CWD: /Users/garenliang/ProjectX/MongoUsers
 11 silly lifecycle mongousers@1.0.0~test: Args: [ '-c', 'nodemon --exec \'mocha -R min\'' ]
 12 silly lifecycle mongousers@1.0.0~test: Returned: code: 1  signal: null
